@@ -1,0 +1,11 @@
+define new
+new definition = define
+delete |= ^new
+delete definition define
+(true != false) == (null & void)
+*null, 0, 1 = [&void, true--, ++]
+new generic type
+function<_> = new type<(_)>
+get<name> => function<get>(name)
+out = get<out>
+out("Hello, world!")
